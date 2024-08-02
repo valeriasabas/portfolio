@@ -1,4 +1,6 @@
-# Biomedical Engineer || Data Science
+# Biomedical Engineer
+
+## Data Science
 
 ### About 
 
