@@ -1,3 +1,11 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
 title: Valeria Sabas
-logo:  /portimg/fotopp.png
+
 theme: jekyll-theme-cayman
