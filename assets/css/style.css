@@ -1,0 +1,5 @@
+/* Add this to your CSS file */
+.logo {
+  width: 100px;  /* Adjust the width as needed */
+  height: auto;  /* Keeps the aspect ratio */
+}
